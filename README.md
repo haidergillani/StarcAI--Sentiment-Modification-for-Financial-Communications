@@ -2,12 +2,12 @@
 
 Team Members: [Haider Gillani](https://www.linkedin.com/in/haider-gillani-b87b90210/),  [Haneen Azhar](http://www.linkedin.com/in/haneenazhar),  [Saad Asad](https://www.linkedin.com/in/muhammad-saad-asad-836b82216)
 
-#### Product Pitch: [Pitch](https://drive.google.com/file/d/1b2F3Az6OQGGCNDo41ckHrLp8TdaEe77Y/view?usp=sharing)
+#### Product Pitch: [STARC - Pitch](https://drive.google.com/file/d/1b2F3Az6OQGGCNDo41ckHrLp8TdaEe77Y/view?usp=sharing)
 
 ### Product Description:  
 
-Research emphasizes that integrating company sentiment data into price prediction models increases predictive accuracy by 20% –– this underlines the growing dependency on sentiment analysis tools in stock price forecasting. Drawing from Keynes’s "castle in the air" theory, the market reacts to what a company communicates, and how that information is presented directly influences investor confidence, in adversity and prosperity alike. An optimistic letter to shareholders bolsters investor confidence, while a pessimistic or uncertain tone stages a panic sell-off. This ripple effect extends to annual reports, social media communications, and other public disclosures by the company. \ 
-Recognizing this crucial necessity for businesses worldwide, we introduce STARC: an innovative, automated solution designed to optimize sentiments in corporate communications. \
+Research emphasizes that integrating company sentiment data into price prediction models increases predictive accuracy by 20% –– this underlines the growing dependency on sentiment analysis tools in stock price forecasting. Drawing from Keynes’s "castle in the air" theory, the market reacts to what a company communicates, and how that information is presented directly influences investor confidence, in adversity and prosperity alike. An optimistic letter to shareholders bolsters investor confidence, while a pessimistic or uncertain tone stages a panic sell-off. This ripple effect extends to annual reports, social media communications, and other public disclosures by the company.\ 
+Recognizing this crucial necessity for businesses worldwide, we introduce STARC: an innovative, automated solution designed to optimize sentiments in corporate communications.\
 
 STARC is an advanced text manipulation model designed to assist companies in influencing investor sentiments through automated sentiment modification. 
 STARC quantifies and fine-tunes sentiments of financial text through real-time text generation while preserving context and authenticity. Our proprietary 6-scale financial sentiment quantification model sets a new standard for sentiment refinement, surpassing traditional 3-scale models in precision and nuance. \
@@ -32,7 +32,7 @@ The result, a strategic advantage in shaping investor and analyst perception, at
 Our target audience ranges from big corporations to smaller startups. STARC is beneficial to any company generating communications that may be analyzed by investors or analysts using sentiment analysis tools, which shapes their confidence in the company. 
 
 ##### Competitive Landscape
-Currently, no specific company offers a product identical to STARC – which combines sentiment analysis and modification for targeted influence on investor sentiment. 
-**Sentiment Analysis:** While several companies (Lexalytics, Aylien, MonkeyLearn) provide NLP sentiment analysis for text, they do not offer sentiment modification.
-**Market Research Firms:** Market research firms provide insights into sentiment trends but focus on industry research rather than offering company-facing products.
+Currently, no specific company offers a product identical to STARC – which combines sentiment analysis and modification for targeted influence on investor sentiment.\ 
+**Sentiment Analysis:** While several companies (Lexalytics, Aylien, MonkeyLearn) provide NLP sentiment analysis for text, they do not offer sentiment modification.\
+**Market Research Firms:** Market research firms provide insights into sentiment trends but focus on industry research rather than offering company-facing products.\
 **Text Generation Models:** Companies like OpenAI and OpenText offer generic text generation models that lack sentiment manipulation or a quantified sentiment score.
