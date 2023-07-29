@@ -16,7 +16,7 @@ The result, a strategic advantage in shaping investor and analyst perception, at
 
 
 ##### Key Features:
-1. **Evaluating the sentiment** of financial text using our 6-scale model and setting desired sentiment score (Figure 2). 
+1. **Evaluating the sentiment** of financial text using our 6-scale model and setting desired sentiment score. 
 2. **Rewrite or generate new text** to communicate the desired sentiment using a proprietary version of GPT-4, fine-tuned on sentiment scores by our 6-scale FinBERT-tone model. 
 3. **Modified text retains the original text's information**, context, and coherence using advanced semantic similarity, topic modeling, and prompt engineering.
 4. **Providing real-time feedback** on the sentiment score changes as users modify the text to refine text until it reaches the desired score.
