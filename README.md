@@ -1,4 +1,4 @@
-# STARC-AI-Sentiment-Modification-for-Financial-Communications
+# StarcAI: Sentiment Modification for Financial Communications
 
 Team Members: [Haider Gillani](https://www.linkedin.com/in/haider-gillani-b87b90210/),  [Haneen Azhar](http://www.linkedin.com/in/haneenazhar),  [Saad Asad](https://www.linkedin.com/in/muhammad-saad-asad-836b82216)
 
